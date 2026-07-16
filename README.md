@@ -2,7 +2,7 @@
 
 ![AI Orchestration Hub — the toolkit at work](assets/AiOrchestration.jpg)
 
-# W.K.CHEONG
+# W.K. CHEONG
 
 **Business Analyst (Finance) × AI orchestration — building software by swinging the wand.**
 
