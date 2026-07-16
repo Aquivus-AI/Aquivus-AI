@@ -1,6 +1,6 @@
 <div align="center">
 
-![The alley at night](assets/banner.webp)
+![AI Orchestration Hub — the toolkit at work](assets/AiOrchestration.jpg)
 
 # Cheong Wai Kit · W.K.
 
