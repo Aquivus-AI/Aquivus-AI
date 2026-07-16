@@ -2,9 +2,9 @@
 
 ![AI Orchestration Hub — the toolkit at work](assets/AiOrchestration.jpg)
 
-# Cheong Wai Kit · W.K.
+# W.K.CHEONG
 
-**Business Analyst (Finance) × AI orchestration — building software the wizard's way.**
+**Business Analyst (Finance) × AI orchestration — building software by swinging the wand.**
 
 [![Live site](https://img.shields.io/badge/alley618.dev-LIVE-2ea44f?style=for-the-badge)](https://alley618.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheong_Wai_Kit-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheong-wai-kit-b44554ab)
